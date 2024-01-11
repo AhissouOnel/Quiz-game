@@ -1,0 +1,9 @@
+Ceci est un jeu de quiz portant sur quelques notions en JavaScript.
+Le but du jeu est d'avoir le plus de bonne réponse possible.
+Le jeu se joue comme suit : 
+ -la touche start permet de commencer le jeu;
+ -une question sera posée et un jeu de réponses sera proposé dont l'une est vraie et les autres fausses;
+ -si vous choisissez la bonne réponse, votre score sera implémenté de 10 points (10);
+ -si vous choisissez la mauvaise réponse, votre score sera décrémenté de 5 points (-5);
+ -un temps vous sera accorder pour répondre aux questions. Une fois le temps écoulé, vous devez passez à la question suivante,
+ les boutons de réponses seront désactivé
